@@ -12,3 +12,4 @@ transitions = "*"
 
 [scripts]
 main = "python src/main.py"
+dec = "python src/decimal.py"
